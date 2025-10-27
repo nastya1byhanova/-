@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+    margin-left: 35px
+}
+
+h1 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+main img{
+    margin-left: 130px;
+}
+
+h2 {
+    text-align: center;
+}
+
+main p {
+    text-align: center;
+    color: orange;
+}
+
+main a{
+    margin-left: 260px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+}
